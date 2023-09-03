@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: User Story Template
+about: Helps write well-formatted user stories for ZenHub kanban board
 title: ''
 labels: ''
 assignees: ''
